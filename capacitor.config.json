@@ -1,0 +1,11 @@
+{
+  "appId": "ai.novavideo.app",
+  "appName": "NovaVideo AI",
+  "webDir": "public",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
